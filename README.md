@@ -1,0 +1,1 @@
+# junior_ai_developer_solution
