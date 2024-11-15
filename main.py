@@ -1,7 +1,7 @@
 import openai
 
 # Wprowadź swój klucz API OpenAI 
-openai.api_key = 'API_Key'
+openai.api_key = 'YOUR_API_KEY'
 
 # Funkcja odczytująca treść z pliku
 def read_file_content(filename):
